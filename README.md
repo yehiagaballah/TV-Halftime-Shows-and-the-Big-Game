@@ -2,7 +2,7 @@
 
 Hello,
 
-This project is a part of a series of projects on [Datacamp.com] (https://learn.datacamp.com/) for Data Science with Python [Career Track] (https://learn.datacamp.com/career-tracks/data-scientist-with-python?version=5)
+This project is a part of a series of projects on [Datacamp.com](https://learn.datacamp.com/) for Data Science with Python [Career Track](https://learn.datacamp.com/career-tracks/data-scientist-with-python?version=5)
 
 It is a guided project offering the datasets and what kind of analysis is needed with them while allowing you to perform the code that executes these functions.
 
